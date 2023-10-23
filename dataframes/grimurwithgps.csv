@@ -1,0 +1,58 @@
+,Town,TripNumber,Date,Season,Year,Country,Lat,Lon
+0,Stykkisholmur,0,,,1774,Iceland,64.979788,-22.82590267041446
+1,Copenhagen,0,,,1774,Denmark,55.6867243,12.5700724
+2,Copenhagen,1,17th July,Summer,1786,Denmark,55.6867243,12.5700724
+3,Helsingør,1,20th July,Summer,1786,Denmark,56.0348739,12.6130073
+4,Gravesend,1,7th August,Summer,1786,England,51.4424747,0.3694468
+5,London,1,,,1786,England,51.5073359,-0.12765
+6,Windsor,1,,,1786,England,51.4837886,-0.6040418665032687
+7,Eton,1,,,1786,England,51.4885381,-0.6091736
+8,London,1,,,1786,England,51.5073359,-0.12765
+9,London,2,7th June,Summer,1787,England,51.5073359,-0.12765
+10,Birmingham,2,,Summer,1787,England,52.4796992,-1.9026911
+11,Bolton,2,,Summer,1787,England,53.5782863,-2.4300367
+12,Halifax,2,,Summer,1787,England,53.7229229,-1.8604874
+13,Leeds,2,,Summer,1787,England,53.7974185,-1.5437941
+14,Manchester,2,,Summer,1787,England,53.4794892,-2.2451148
+15,Sheffield,2,,Summer,1787,England,53.3806626,-1.4702278
+16,Edinburgh,2,,Summer,1787,Scotland,55.9533456,-3.1883749
+17,Linlithgow,2,,Summer,1787,Scotland,55.977167,-3.6006234
+18,Stirling,2,,Summer,1787,Scotland,56.1181242,-3.9360012
+19,Dunkeld,2,,Summer,1787,Scotland,56.5655711,-3.5862546
+20,Inveraray,2,25th June,Summer,1787,Scotland,56.2303491,-5.0730947
+21,Fingal Cave,3,,,1787,Scotland,56.4314425,-6.34139
+22,Iona,3,,,1787,Scotland,56.32891745,-6.408400818855068
+23,Staffa,3,,,1787,Scotland,56.435756100000006,-6.3423464718975655
+24,Skye,3,,,1787,Scotland,57.36300795,-6.302173669619252
+25,North Uist,3,,,1787,Scotland,57.6038241,-7.340990066224972
+26,South Uist,3,,,1787,Scotland,57.25093225,-7.335570372442643
+27,Harris,3,,,1787,Scotland,57.889691299999996,-6.877152694914314
+28,Lewis,3,,,1787,Scotland,58.212829150000005,-6.564223873439507
+29,Skibo,3,,,1787,Scotland,57.8740615,-4.1304281
+30,Dunnichen,3,,,1787,Scotland,56.6284614,-2.802281
+31,Edinburgh,3,,,1787,Scotland,55.9533456,-3.1883749
+32,Glasgow,3,,,1787,Scotland,55.861155,-4.2501687
+33,London,3,1st Dec,Winter,1787,England,51.5073359,-0.12765
+34,London,4,,,1788,England,51.5073359,-0.12765
+35,Fife,4,,,1788,Scotland,56.3333331,-3.0000001
+36,London,5,,Spring,1789,England,51.5073359,-0.12765
+37,Portsmouth,5,,Spring,1789,England,50.8036831,-1.075614
+38,Salisbury,5,,Spring,1789,England,51.0690613,-1.7954134
+39,Bristol,5,,Spring,1789,England,51.4538022,-2.5972985
+40,Chester,5,,Spring,1789,England,53.1908873,-2.8908955
+41,Liverpool,5,,Spring,1789,England,53.4071991,-2.99168
+42,London,5,,Spring,1789,England,51.5073359,-0.12765
+43,London,6,,Summer,1789,England,51.5073359,-0.12765
+44,Hockliffe,6,,Summer,1789,England,51.9321488,-0.5838148
+45,Litchfield,6,,Summer,1789,England,51.2826256,-1.3388563
+46,Nantwich,6,,Summer,1789,England,53.0671376,-2.5221184
+47,Chester,6,,Summer,1789,England,53.1908873,-2.8908955
+48,Parkgate,6,,Summer,1789,England,53.2971886,-3.0836187
+49,Holyhead,6,,Summer,1789,Wales,53.3106715,-4.6330966
+50,Dundalk,6,12th August,Summer,1789,Ireland,54.0033615,-6.39199961126268
+51,Dublin,6,,Summer,1789,Ireland,53.3493795,-6.2605593
+52,Douglas,6,,Summer,1789,Isle of Man,54.149774,-4.4779021
+53,London,6,,Summer,1789,England,51.5073359,-0.12765
+54,Cambridge,7,1st June,Summer,1790,England,52.2055314,0.1186637
+55,Aberdeen,7,16th July,Summer,1790,Scotland,57.1482429,-2.0928095
+56,London,7,27th August,Summer,1790,England,51.5073359,-0.12765

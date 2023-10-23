@@ -1,0 +1,58 @@
+Town,TripNumber,Date,Season,Year,Country
+Stykkisholmur,0,,,1774,Iceland
+Copenhagen,0,,,1774,Denmark
+Copenhagen,1,17th July,Summer,1786,Denmark
+Helsingør,1,20th July,Summer,1786,Denmark
+Gravesend,1,7th August,Summer,1786,England
+London,1,,,1786,England
+Windsor,1,,,1786,England
+Eton,1,,,1786,England
+London,1,,,1786,England
+London,2,7th June,Summer,1787,England
+Birmingham,2,,Summer,1787,England
+Bolton,2,,Summer,1787,England
+Halifax,2,,Summer,1787,England
+Leeds,2,,Summer,1787,England
+Manchester,2,,Summer,1787,England
+Sheffield,2,,Summer,1787,England
+Edinburgh,2,,Summer,1787,Scotland
+Linlithgow,2,,Summer,1787,Scotland
+Stirling,2,,Summer,1787,Scotland
+Dunkeld,2,,Summer,1787,Scotland
+Inveraray,2,25th June,Summer,1787,Scotland
+Fingal Cave,3,,,1787,Scotland
+Iona,3,,,1787,Scotland
+Staffa,3,,,1787,Scotland
+Skye,3,,,1787,Scotland
+North Uist,3,,,1787,Scotland
+South Uist,3,,,1787,Scotland
+Harris,3,,,1787,Scotland
+Lewis,3,,,1787,Scotland
+Skibo,3,,,1787,Scotland
+Dunnichen,3,,,1787,Scotland
+Edinburgh,3,,,1787,Scotland
+Glasgow,3,,,1787,Scotland
+London,3,1st Dec,Winter,1787,England
+London,4,,,1788,England
+Fife,4,,,1788,Scotland
+London,5,,Spring,1789,England
+Portsmouth,5,,Spring,1789,England
+Salisbury,5,,Spring,1789,England
+Bristol,5,,Spring,1789,England
+Chester,5,,Spring,1789,England
+Liverpool,5,,Spring,1789,England
+London,5,,Spring,1789,England
+London,6,,Summer,1789,England
+Hockliffe,6,,Summer,1789,England
+Litchfield,6,,Summer,1789,England
+Nantwich,6,,Summer,1789,England
+Chester,6,,Summer,1789,England
+Parkgate,6,,Summer,1789,England
+Holyhead,6,,Summer,1789,Wales
+Dundalk,6,12th August,Summer,1789,Ireland
+Dublin,6,,Summer,1789,Ireland
+Douglas,6,,Summer,1789,Isle of Man
+London,6,,Summer,1789,England
+Cambridge,7,1st June,Summer,1790,England
+Aberdeen,7,16th July,Summer,1790,Scotland
+London,7,27th August,Summer,1790,England
